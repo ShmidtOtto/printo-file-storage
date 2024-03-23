@@ -1,0 +1,11 @@
+/node_modules
+
+# Build
+dist
+
+.env
+.env.local
+
+.vscode
+
+/tmp
